@@ -1,0 +1,12 @@
+expected_cols=[
+    "VendorID",
+    "tpep_pickup_datetime",
+    "tpep_dropoff_datetime",
+    "passenger_count",
+    "trip_distance",
+    "PULocationID",
+    "DOLocationID",
+    "fare_amount",
+    "tip_amount",
+    "total_amount"
+]
